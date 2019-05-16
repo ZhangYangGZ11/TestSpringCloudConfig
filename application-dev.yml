@@ -1,5 +1,5 @@
 configs:
  constant:
-  name: zhangsan
-  level: high
-  environment: test
+  name: test
+  level: middle
+  environment: dev
