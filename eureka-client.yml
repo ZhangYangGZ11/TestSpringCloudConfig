@@ -1,5 +1,0 @@
-configs:
- constant:
-  name: haha
-  level: low
-  environment: prod
