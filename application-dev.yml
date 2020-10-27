@@ -1,5 +1,0 @@
-configs:
- constant:
-  name: test
-  level: middle
-  environment: dev
