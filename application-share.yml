@@ -1,5 +1,0 @@
-configs:
- constant:
-  name: zhangsan
-  level: high
-  environment: test
